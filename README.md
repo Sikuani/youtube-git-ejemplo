@@ -1,6 +1,6 @@
 # youtube-git-ejemplo
 Ejercicio practico
 
-This is a practical repo for improve my github skills
+This is a practical repo to improve my github skills
 
 
