@@ -1,6 +1,6 @@
 //hacer click en el boton
-const boton = document.getElementById("boton");
-boton.addEventListener("click", preguntarNombre);
+const boton = document.getElementById('boton');
+boton.addEventListener('click', preguntarNombre);
 
 //guardar referencias a los headings
 const h1 = document.getElementById('h1');
@@ -15,8 +15,6 @@ function preguntarNombre() {
 //insertar el nombre donde estan los dos puntos
 
 function mostrarNombre(nombreUsuario) {
-  h2.textContent = "Hola";
+  h2.textContent = 'Hola';
   h1.textContent = nombreUsuario;
 }
-
-
